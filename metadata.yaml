@@ -1,0 +1,47 @@
+_repo: Pimeyden-valta-eli-Kun-kynsi-on-kiinni-niin-on-koko-lintu-hukassa-5-naytoksinen-naytelma_69861
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wuori, Martti
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoï, Léon
+    - Tolstoy, Graf Leo
+    - Tolstoj, Lev Nikolaevič
+    - Tolstoj, Lev Nikolaevic
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
+description: 'Translation of: Власть тьмы (Vlast′ t′my).'
+gutenberg_issued: '2023-01-23'
+identifiers:
+  gutenberg: '69861'
+language: fi
+pgterms:marc905: 20221126035606tolstoi
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: 'Finland: K. Kaatra,1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Drama'
+- !lcsh 'Russian drama -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: 'Pimeyden valta eli Kun kynsi on kiinni, niin on koko lintu hukassa: 5-näytöksinen
+  näytelmä'
+url: http://www.gutenberg.org/ebooks/69861
