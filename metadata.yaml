@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '26501'
     url: http://www.gutenberg.org/2009/agents/26501
     wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: https://en.wikipedia.org/wiki/Leo_Tolstoy
 description: 'Translation of: Власть тьмы (Vlast′ t′my).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69861#Pimeyden-valta-eli-Kun-kynsi-on-kiinni-niin-on-koko-lintu-hukassa-5-naytoksinen-naytelma
 gutenberg_issued: '2023-01-23'
 identifiers:
   gutenberg: '69861'
